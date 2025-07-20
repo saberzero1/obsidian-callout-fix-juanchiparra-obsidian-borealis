@@ -87,6 +87,8 @@ You can use [Style Settings](https://github.com/mgmeyers/obsidian-style-settings
 - Backgrounds
 - Fonts
 - Syntax highlighting
+- Checkboxes
+- Tables
 
 ## Contributing
 
